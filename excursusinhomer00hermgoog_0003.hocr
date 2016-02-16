@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./excursusinhomer00hermgoog_0003.png"; bbox 0 0 902 1406; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 256 446 626 524">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 256 446 626 524">
+     <span class='ocr_line' id='line_1_1' title="bbox 256 446 626 482; baseline -0.016 -1"><span class='ocrx_word' id='word_1_1' title='bbox 256 449 328 482; x_wconf 77' lang='lat' dir='ltr'><strong>Che</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 338 446 626 482; x_wconf 61' lang='lat' dir='ltr'><strong>fitger-(uiuiams</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 341 489 541 524; baseline -0.01 -2"><span class='ocrx_word' id='word_1_3' title='bbox 341 491 441 522; x_wconf 68' lang='lat' dir='ltr'>Book</span> <span class='ocrx_word' id='word_1_4' title='bbox 451 489 541 524; x_wconf 73' lang='lat' dir='ltr'>fund</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 69 334 561 852">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 69 334 561 852">
+     <span class='ocr_line' id='line_1_3' title="bbox 69 334 561 852; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 69 334 193 571; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 326 568 561 852; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 261 923 633 948">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 261 923 633 948">
+     <span class='ocr_line' id='line_1_4' title="bbox 261 923 633 948; baseline -0.016 1"><span class='ocrx_word' id='word_1_7' title='bbox 261 927 371 948; x_wconf 66' lang='lat' dir='ltr'><strong>Stantem</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 381 924 511 948; x_wconf 62' lang='grc' dir='ltr'><strong>σπίναι-εἰη</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 520 923 633 945; x_wconf 52' lang='lat' dir='ltr'><strong>»ibn-artes</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 258 1194 496 1323">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 258 1194 496 1323">
+     <span class='ocr_line' id='line_1_5' title="bbox 258 1194 496 1323; baseline -0.017 -111"><span class='ocrx_word' id='word_1_10' title='bbox 258 1194 496 1323; x_wconf 28' lang='grc' dir='ltr'><strong>(ἡ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 829 70 831 1030">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 829 70 831 1030">
+     <span class='ocr_line' id='line_1_6' title="bbox 829 70 831 1030; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 829 70 831 1030; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
